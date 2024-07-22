@@ -1,1 +1,9 @@
-{"name":"Stealth_Syntax","ticker":"SSX1","description":"The future","homepage":"https://foo.com","nonce":"1721570172","extended":"https://foo.com/metadata/extended.json"}
+{
+  "name":"Stealth_Syntax","ticker":"SSX1",
+  "description":"The future",
+  "homepage":"https://foo.com",
+  "nonce":"1721570172",
+  "extended":"https://foo.com/metadata/extended.json",
+"verification":"6185298eaa07e7d343"
+
+}
